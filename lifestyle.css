@@ -1,0 +1,33 @@
+html, body {height:100%;}
+
+.geral {
+    min-height:100%;
+    position:relative;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+	background-color:#000000;
+	color:white;
+	text-align:center;
+}
+.menu {
+	color:#ffffff;
+	background-color:#000000;
+	text-align:center;
+	
+}
+a:link, a:visited { 
+    color:#ffffff;
+    text-decoration: none ;
+    cursor: ;
+}
+
+a:link:active, a:visited:active { 
+    color: (internal value);
+}
+.text{
+	position:relative;
+}
